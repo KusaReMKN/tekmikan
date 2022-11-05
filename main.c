@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#include "mikanchan.c"
+#include "mikanchan.dat"
 
 #define TEK_WIDTH	1024
 #define TEK_HEIGHT	779

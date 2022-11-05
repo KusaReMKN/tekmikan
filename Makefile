@@ -1,2 +1,2 @@
-tekmikan:	main.c mikanchan.c
+tekmikan:	main.c mikanchan.dat
 	cc -o tekmikan main.c
